@@ -1,0 +1,123 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #8f0000c5, #000000);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+.container {
+    text-align: center;
+    background: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    width: 70%;
+}
+.intro {
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #000000;
+}
+.button-container {
+    margin-bottom: 25px;
+}
+button {
+    font-size: 18px;
+    padding: 14px 28px;
+    margin: 10px;
+    border: none;
+    border-radius: 8px;
+    background: #000763;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+button:hover {
+    background: #01b5e2;
+    transform: scale(1.05);
+}
+.content {
+    display: none;
+    margin-top: 20px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    color: #333;
+    font-size: 28px;
+}
+h2 {
+    color: #444;
+    font-size: 30px;
+}
+h3 {
+    color: #444;
+    text-align: center;
+}
+h4 {
+    color: #444;
+    font-size: 25px;
+    text-align: center;
+}
+h5 {
+    color: #444;
+    font-size: 20px;
+}
+p {
+    font-size: 20px;
+    color: #000000;
+}
+.kep1 {
+    float: center;
+    width: 50%;
+}
+.kep2 {
+    float: center;
+    width: 50%;
+}
+.kep3 img{
+    float: center;
+    width: 50%;
+}
+.kep4 img {
+    float: center;
+    width: 50%;
+}
+.kep5 img {
+    width: 90%;
+}
+.kep6 img {
+    width: 50%;
+}
+.kep7 img{
+    float: center;
+    width: 30%;
+}
+.kep8 img{
+    float: center;
+    width: 30%;
+}
+.kep9 img{
+float: center;
+width: 50%;
+}
+.kep10 img{
+float: center;
+width: 40%;
+}
+.kep11 img{
+    float: center;
+    width: 40%;
+    }
+.kep12 img{
+    float: center;
+    width: 40%;
+    }
+.kep13 img{
+    float: center;
+    width: 40%;
+    }
